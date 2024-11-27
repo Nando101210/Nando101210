@@ -1,16 +1,34 @@
-## Hi there 👋
+# Olá, seja bem-vindo ao meu perfil! 👋
 
-<!--
-**Nando101210/Nando101210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
 
-Here are some ideas to get you started:
+Olá! Meu nome é Fernando Soares Da Silva. Sou estudante de **Ciência da Computação** e atualmente estou me aprofundando em **Python**, explorando suas diversas aplicações, desde automação até desenvolvimento web e ciência de dados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho paixão por aprender e compartilhar conhecimentos sobre tecnologia, programação e inovação. Estou sempre buscando novos desafios para expandir minhas habilidades.
+
+## Áreas de interesse
+
+- 💻 **Linguagens de Programação**: Atualmente focado em Python, mas também curioso sobre JavaScript e C++.
+- 🤖 **Inteligência Artificial**: Interesses em aprendizado de máquina e automação.
+- 🌐 **Desenvolvimento Web**: Explorando frameworks como Flask e Django.
+- 📊 **Análise de Dados**: Utilizando bibliotecas como Pandas e Matplotlib para entender melhor os dados.
+
+## Projetos em destaque
+
+### 1. [Calculadora Básica em Python](https://github.com/seu-usuario/calculadora-python)
+- Uma simples calculadora em Python que realiza operações básicas.
+- **Tecnologias usadas**: Python.
+
+### 2. [Análise de Dados com Pandas](https://github.com/seu-usuario/analise-dados)
+- Projeto que analisa e visualiza dados usando Pandas e Matplotlib.
+- **Tecnologias usadas**: Python, Jupyter Notebook.
+
+## Entre em contato comigo
+
+- 📫 **Email**: nandosoares719@gmail.com
+- 💼 **LinkedIn**: https://www.linkedin.com/in/fernando-soares-866375337/
+  
+
+---
+
+**"Aprender nunca é demais. A curiosidade é a chave para o sucesso!"**
